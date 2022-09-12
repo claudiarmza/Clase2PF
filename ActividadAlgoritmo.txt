@@ -1,0 +1,12 @@
+Algoritmo de preparar café con cafetera
+
+1. Conectar la cafetera.
+2. Oprimir botón de la cafetera para encenderla.
+3. Llenar el depósito de agua.
+4. Esperar a que parpadee el botón, el cual indica que el agua ya hirvió.
+5. Insertar cartucho de café en cafetera.
+6. Colocar taza en su lugar.
+7. Oprimir de nuevo el botón de la cafetera.
+8. Esperar a que se sirva el café en la taza.
+9. Agregar leche y/o azucar al gusto (opcional)
+10. Disfrutar el café :)
